@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **Jialong-c/Jialong-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😃 欢迎访问我的主页
+<!--Github统计卡片-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jialong-c&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!--热门语言统计卡片-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
